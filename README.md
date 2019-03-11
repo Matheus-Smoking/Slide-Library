@@ -23,3 +23,5 @@ Exemplo:
 >slide.addArrow('.prev', '.next');
 
 >slide.addControl('.custom-controls');
+
+#### https://matheus-smoking.github.io/Slide-Library/
