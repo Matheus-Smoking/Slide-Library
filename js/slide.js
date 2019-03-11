@@ -1,5 +1,3 @@
-import debounce from './debounce.js';
-
 export class Slide {
   constructor(slide, wrapper) {
     this.slide = document.querySelector(slide)
